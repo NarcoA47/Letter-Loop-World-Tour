@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 
+  gameAnalyticsIosSecretKey: 
+  gameAnalyticsAndroidGameKey: 20decd1bcfb13628ad4ef737438ded31
+  gameAnalyticsAndroidSecretKey: 104ecdbbee100379b3ae2501ac2a4a91c305336b
+  facebookAppId: 1259867978293613
+  facebookClientToken: 2078759028988998
+  adjustIOSToken: 
+  adjustAndroidToken: cvo9pmtw4j5s
+  EditorIdfa: d76e0f81-d569-4397-8b04-b1473be4ae9e
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: gecogames
+  privacyPolicyURL: https://l.facebook.com/l.php?u=https%3A%2F%2Fletterloopprivacypolicy.blogspot.com%2F2023%2F05%2Fpolicy-this-service-is-provided-by-geco.html%3Ffbclid%3DIwAR03noOy1MpY9lysCUU8dtTuUvhwHt1Z4Cv66-ZvV10PBgT__Y9o9afuv64&h=AT25TKQwTk1lGdimv-v0fHsrU3118VET4rf6jAeRap4pc2bo3u9M1MrKqCGM70_e87QL1m3lMo3arlMf4WPKeszd7os4bmcSRt6fELO0Rp7CIRoEPUhUqwLkn_nP1mU4TMd74A
+  developerContactEmail: luyandoshilukukwa@gmail.com
